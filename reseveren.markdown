@@ -12,3 +12,6 @@ Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van 
 |   | 14 | 15 | 16 | 17 | 18 | 19 |   |
 |   |   |   |   |   |   |   |   |
 | 20 | 21 | 22 | 23 | 24 | 25 |   | D  |
+
+
+De kosten voor de lan (locatie/stroom etc) zijn €30 pp je kunt dit betalen met onderstaande QR-code. Of op rekeningnummer: NL30RABO0316821691, ten name van: F. Berndsen-Wanders eo M.J.B, Berndsen. Onder vermelding van je nickname en irl naam (en evt tafel nr).
