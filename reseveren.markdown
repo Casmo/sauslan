@@ -6,7 +6,7 @@ permalink: /reseveren/
 
 Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van de zaal is een scheidingswand. Daarachter zullen de slaapplekken zijn. Op "D" is de deur naar de zaal toe.
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
+| 1 | 2 | 3 | 4 | 5 | 6 | Dasha |   |
 |   |   |   |   |   |   |   |   |
 |   | 8 | Dick | Thijs | Pim | 12 | 13 |   |
 |   | mark | mathieu | fab | loes | 18 | 19 |   |
