@@ -8,7 +8,7 @@ Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
 |   |   |   |   |   |   |   |   |
-|   | 8 | 9 | 10 | 11 | 12 | 13 |   |
+|   | 8 | Dick | Thijs | Pim | 12 | 13 |   |
 |   | mark | mathieu | fab | loes | 18 | 19 |   |
 |   |   |   |   |   |   |   |   |
 | gereserveerd | gereserveerd | gereserveerd  | gereserveerd | gereserveerd | gereserveerd |   | D  |
