@@ -8,7 +8,7 @@ Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van 
 
 | Imke | Arren | Remko | Joppe | Robin | Dasja | 6 |  |
 |   |   |   |   |   |   |   |   |
-| Choppie | Dick | Thijs | Pim | Maddy | 13 |   |  |
+| Choppie | Dick | Thijs | Pim | Maddy | Nicky |   |  |
 | Coen | mark | mathieu | fab | loes | Joep | 19 |   |
 |   |   |   |   |   |   |   |   |
 | gereserveerd | gereserveerd | gereserveerd  | gereserveerd | gereserveerd | gereserveerd |   | D  |
