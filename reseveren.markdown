@@ -6,10 +6,10 @@ permalink: /reseveren/
 
 Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van de zaal is een scheidingswand. Daarachter zullen de slaapplekken zijn. Op "D" is de deur naar de zaal toe.
 
-| 1 | 2 | Joppe | Robin | 5 | 6 | Dasha |   |
+| Imke | Arren | Remko | Joppe | Robin | Dasja | 6 |  |
 |   |   |   |   |   |   |   |   |
-| Choppie | Dick | Thijs | Pim | 12 | 13 |   |  |
-| Coen | mark | mathieu | fab | loes | 18 | 19 |   |
+| Choppie | Dick | Thijs | Pim | Maddy | 13 |   |  |
+| Coen | mark | mathieu | fab | loes | Joep | 19 |   |
 |   |   |   |   |   |   |   |   |
 | gereserveerd | gereserveerd | gereserveerd  | gereserveerd | gereserveerd | gereserveerd |   | D  |
 
