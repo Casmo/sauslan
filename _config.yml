@@ -21,7 +21,7 @@
 title: SauS
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  De website van SauS. SauS 17 van 16 t/m 18 februari 2024, Scouting blokhut Bemmel (Sportlaan 1f).
+  De website van SauS. SauS 18 van 7 t/m 9 maart 2025, Scouting blokhut Bemmel (Sportlaan 1f).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sauslan.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
