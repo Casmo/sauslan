@@ -8,7 +8,7 @@ Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van 
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 6 |  |
 |   |   |   |   |   |   |   |   |
-| Prins Carnaval | Knuppel 1 | Knuppel 2 | Maddy | Zupje | Mij |   |  |
+| Prins Carnaval | Kumpel 1 | Kumpel 2 | Maddy | Zupje | Mij |   |  |
 | Mark | Mathieu | Fab | Edwin | 17 | 18 | 19 |   |
 |   |   |   |   |   |   |   |   |
 | gereserveerd | gereserveerd | gereserveerd  | gereserveerd | gereserveerd | gereserveerd |   | D  |
