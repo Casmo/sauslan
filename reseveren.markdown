@@ -6,7 +6,7 @@ permalink: /reseveren/
 
 Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van de zaal is een scheidingswand. Daarachter zullen de slaapplekken zijn. Op "D" is de deur naar de zaal toe.
 
-| 1 | 2 | Dasha | Robin | 5 | 6 | 6 |  |
+| 1 | 2 | Dasha | Robin | Joppe | 6 | 6 |  |
 |   |   |   |   |   |   |   |   |
 | Prins Carnaval | Kumpel 1 | Kumpel 2 | Maddy | Zupje | Mij |   |  |
 | Mark | Mathieu | Fab | Edwin | 17 | 18 | 19 |   |
