@@ -9,7 +9,7 @@ Nadat je betaling hebt gedaan kan je een plek reseveren. Aan de rechterkant van 
 | 1 | 2 | Dasha | Robin | Joppe | Raspje | 7 |  |
 |   |   |   |   |   |   |   |   |
 | Prins Carnaval | Kumpel 1 | Kumpel 2 | Maddy | Zupje | Mij |   |  |
-| Mark | Mathieu | Fab | Edwin | Dupol/Jacco | 18 | 19 |   |
+| Mark | Mathieu | Fab | Edwin | Dupol/Jacco | Happy/ martin | 19 |   |
 |   |   |   |   |   |   |   |   |
 | gereserveerd | gereserveerd | gereserveerd  | gereserveerd | gereserveerd | gereserveerd |   | D  |
 
